@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+![image](https://github.com/user-attachments/assets/2f4e2bbb-9e9c-4fac-98d6-c6cdf72b9c59)<h1 align="center"> DevLinks </h1>
 
 <p align="center">
 Projeto desenvolvido no curso, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -18,7 +18,7 @@ Projeto desenvolvido no curso, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/capa .png" width="100%">
+  <img alt="" src=".github/capa .png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
